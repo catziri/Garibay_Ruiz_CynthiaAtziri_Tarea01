@@ -1,0 +1,34 @@
+<resources>
+
+    <string name="app_name">Tarea01</string>
+    <string name="hint_nombre">"Ingrese su nombre"</string>
+    <string name="hint_telefono">"Ingrese su teléfono"</string>
+    <string name="text_escolaridad">"Escolaridad"</string>
+    <string name="text_genero">"Género"</string>
+    <string name="text_f">"Femenino"</string>
+    <string name="text_m">"Maculino"</string>
+    <string name="text_libroFav">"Libro Favorito"</string>
+    <string name="text_check">"Practica Deporte"</string>
+    <string name="text_limpiar">"Limpiar"</string>
+    <string name="text_save">"Guardar"</string>
+    <string name="dialog">"Desea limpiar el contenido?"</string>
+    <string name="ok">"Okay"</string>
+    <string name="cancel">"Cancel"</string>
+
+    <string-array name="libroFavorito">
+        <item>Diario de Ana Frank</item>
+        <item>Ladrona de libros</item>
+        <item>Romeo y Julieta</item>
+        <item>Una canción para ti</item>
+        <item>Yo antes de ti</item>
+    </string-array>
+
+    <string-array name="Escolaridad">
+        <item>Bachillerato</item>
+        <item>Técnico</item>
+        <item>Licenciatura</item>
+        <item>Mestría</item>
+        <item>Doctorado</item>
+    </string-array>
+
+</resources>

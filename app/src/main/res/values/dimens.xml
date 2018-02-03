@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding">10dp</dimen>
+    <dimen name="text">18sp</dimen>
+    <dimen name="fifhor">0dp</dimen>
+    <dimen name="w">1</dimen>
+</resources>
